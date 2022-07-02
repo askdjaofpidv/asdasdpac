@@ -1,4 +1,4 @@
-EMBED_FOOTER_TEXT = "---by zgjafqpa#5534---"
+EMBED_FOOTER_TEXT = "---by just a human#6263---"
 
 DEFAULT_ID_SLACK = 100000
 DEFAULT_RANGES = (
